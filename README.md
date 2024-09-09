@@ -25,5 +25,5 @@ The Pathfinding Visualizer is designed to demonstrate how popular pathfinding al
 ## Technologies Used
 
  -> Frontend: React.js, HTML, CSS
- -> Backend: Node.js (optional if your app has any server-side logic)
+ -> Backend: Node.js
  -> Algorithms: JavaScript implementations of various pathfinding algorithms.
