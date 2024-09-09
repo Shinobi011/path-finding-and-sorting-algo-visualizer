@@ -6,21 +6,32 @@ You can directly access it here -> https://path-finding-and-sorting-algo-visuale
 ## Table of Contents
 Table of Contents
 1. Introduction
-2. Features
-3. Demo
-4. Technologies Used
+2. Implemented Algorithms
+3. Features
+4. Demo
+5. Technologies Used
 
 ## Introduction
 
 The Pathfinding Visualizer is designed to demonstrate how popular pathfinding algorithms like Dijkstra’s Algorithm, A*, and others work in real-time. It allows users to create obstacles, set start and end points, and visualize how algorithms explore and find the shortest path.
 
+## Implemented Algorithms
+1. Dijkstra's Algorithm
+2. A* Search
+3. Greedy Best-First Search
+4. Swarm Algoriihtm
+5. Convergent Swarm Algorithm
+6. Bidirectional Swarm Algorithm
+7. Breadth-first Search
+8. Depth-first Search
+
 ## Features
 
- -> Interactive Grid: Add start, end, and wall nodes on a grid.
- -> Multiple Algorithms: Visualize various pathfinding algorithms such as Dijkstra’s, A*, BFS, DFS, and more.
- -> Real-Time Visualization: Watch how each algorithm processes the grid step by step.
- -> Obstacle Creation: Draw walls to create challenges for the algorithms.
- -> Clear and Reset Grid: Easily reset or clear the grid to try different setups.
+ 1. Interactive Grid: Add start, end, and wall nodes on a grid.
+ 2. Real-Time Visualization: Watch how each algorithm processes the grid step by step.
+ 3. Obstacle Creation: Draw walls to create challenges for the algorithms.
+ 4. Clear and Reset Grid: Easily reset or clear the grid to try different setups.
+ 
 
 ## Technologies Used
 
