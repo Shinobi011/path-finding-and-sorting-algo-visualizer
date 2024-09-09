@@ -1,7 +1,7 @@
 # Path Finding Visualizer Project
 A web-based application that visualizes different pathfinding algorithms in action. This tool helps users understand how these algorithms navigate through a grid to find the shortest path between a starting point and an endpoint.
 
-You can directly acsess it here -> https://path-finding-and-sorting-algo-visuale.netlify.app/
+You can directly access it here -> https://path-finding-and-sorting-algo-visuale.netlify.app/
 
 ## Table of Contents
 Table of Contents
